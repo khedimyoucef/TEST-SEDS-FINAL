@@ -11,6 +11,10 @@ This multi-page Streamlit application provides deep insights into the Paris 2024
 - **👤 Athlete Performance**: Athlete demographics and top performers
 - **🏟️ Sports & Events**: Event schedules, venues, and sport-specific analysis
 
+## Deployed URL
+[Click here to open the app](https://khedimyoucef-test-seds-final-1--overview-jrjv7q.streamlit.app/Global_Analysis)
+
+
 ## 🚀 Quick Start
 
 ### Prerequisites
